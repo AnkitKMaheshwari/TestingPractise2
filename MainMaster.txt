@@ -1,4 +1,6 @@
 Master code
 New feature 1
 New feature 2
+New complex feature 1
+New complex feature 2
 Bug fixed
